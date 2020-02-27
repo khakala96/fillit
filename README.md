@@ -16,4 +16,8 @@ The file given to the program has a specific format : every Tetrimino must exact
 Example of a valid file with valid tetriminos:
 ````
 ![alt text](https://github.com/khakala96/fillit/blob/master/pictures/Valid%20file%20for%20testing.png)
+````
+Example of the solution to the file given above:
+````
+![alt text](https://github.com/khakala96/fillit/blob/master/pictures/Valid_file%20solution.png)
 
