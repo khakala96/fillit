@@ -3,5 +3,6 @@ This was a pair project that I did with tbergkul. In this project, we arrange te
 4 by 4 chars square and all Tetrimino are separated by an newline each. (and a newline at the end of file)
 ````
 A valid test file:
-![alt text]
+````
+![alt text](https://github.com/khakala96/fillit/blob/master/pictures/Valid_test_file.png)
 ##
