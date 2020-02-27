@@ -12,5 +12,6 @@ A valid test file:
 ````
 The file given to the program has a specific format : every Tetrimino must exactly fit in a
 4 by 4 chars square and all Tetrimino are separated by an newline each. (and a newline at the end of file)
-![alt text](https://github.com/khakala96/fillit/blob/master/pictures/)
+Example of a valid file with valid tetriminos:
+![alt text](https://github.com/khakala96/fillit/blob/master/pictures/Valid%20file%20for%20testing.png)
 
